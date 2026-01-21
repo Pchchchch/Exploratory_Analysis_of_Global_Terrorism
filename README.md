@@ -102,7 +102,7 @@ The following analytical methods were applied:
 │   ├─ folium_map.png
 │   └─ dash_dashboard.png
 └─ README.md
-
+```
 ---
 
 ### 🔍 Key Insights 섹션 (구조화 버전)
@@ -120,6 +120,7 @@ The following analytical methods were applied:
 1. Terrorist incidents are highly concentrated in specific regions and periods.  
 2. Some regions consistently experience higher frequencies of attacks over time.  
 3. Attack and target characteristics are associated with higher casualty risks.  
+
 ## 🚀 향후 확장 방향  
 ## 🚀 Future Work
 
