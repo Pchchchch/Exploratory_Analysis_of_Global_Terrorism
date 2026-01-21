@@ -105,9 +105,6 @@ The following analytical methods were applied:
 ```
 ---
 
-### 🔍 Key Insights 섹션 (구조화 버전)
-
-
 ## 🔍 주요 인사이트  
 ## 🔍 Key Insights
 
