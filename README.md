@@ -105,37 +105,40 @@ The following analytical methods were applied:
 
 ---
 
-## 🔍 주요 인사이트
+### 🔍 Key Insights 섹션 (구조화 버전)
+
+```markdown
+## 🔍 주요 인사이트  
 ## 🔍 Key Insights
 
-1. 특정 시기와 지역에 테러 발생이 집중되는 경향이 관찰된다.
-2. 일부 지역은 장기간 높은 테러 발생 빈도를 유지한다.
-3. 공격 유형과 표적 유형은 인명 피해 규모와 관련성을 보인다.
+### 🇰🇷 주요 분석 결과
+1. 테러 발생은 특정 시기와 지역에 집중되는 경향을 보인다.  
+2. 일부 지역은 장기간 높은 테러 발생 빈도를 지속적으로 유지한다.  
+3. 공격 유형과 표적 유형은 인명 피해 규모와 통계적으로 연관성을 보인다.  
 
-1. Terrorist incidents are highly concentrated in specific regions and periods.
-2. Some regions consistently experience higher frequencies of attacks.
-3. Attack and target characteristics are associated with higher casualty risks.
+### 🇺🇸 Key Findings
+1. Terrorist incidents are highly concentrated in specific regions and periods.  
+2. Some regions consistently experience higher frequencies of attacks over time.  
+3. Attack and target characteristics are associated with higher casualty risks.  
+## 🚀 향후 확장 방향  
+## 🚀 Future Work
 
----
-
-🚀 향후 확장 방향
-🚀 Future Work
-
-향후 연구에서는 거버넌스 지표, 경제 변수, 사회적 불안정성 지표 등을 추가하여
-테러 발생의 구조적 요인을 보다 심층적으로 분석할 수 있다.
+### 🇰🇷 확장 가능성
+향후 연구에서는 거버넌스 지표, 경제 변수, 사회적 불안정성 지표 등을 추가하여  
+테러 발생의 구조적 요인을 보다 심층적으로 분석할 수 있다.  
 또한, 보다 정교한 머신러닝 모델을 적용하여 예측 성능을 개선할 수 있다.
 
-Future work may incorporate governance indicators, economic variables,
-and social instability measures to further investigate the structural drivers of terrorism.
+### 🇺🇸 Future Extensions
+Future work may incorporate governance indicators, economic variables,  
+and social instability measures to further investigate the structural drivers of terrorism.  
 More advanced machine learning models could also be applied to improve predictive performance.
 
----
+## ⚠️ 데이터 이용 안내  
+## ⚠️ Data Availability
 
-⚠️ 데이터 이용 안내
-⚠️ Data Availability
-
-Global Terrorism Database(GTD) 원본 데이터는 라이선스 제한으로 인해
+Global Terrorism Database(GTD) 원본 데이터는 라이선스 제한으로 인해  
 본 저장소에 포함되어 있지 않다.
 
-The raw Global Terrorism Database (GTD) data is not included in this repository
+The raw Global Terrorism Database (GTD) data is not included in this repository  
 due to licensing restrictions.
+
